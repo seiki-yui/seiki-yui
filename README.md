@@ -1,5 +1,8 @@
 ### Hello World
 
+我真的好喜欢小圆啊
+
+[![](https://img.shields.io/badge/-Seiki-e60012?style=flat-square&logo=aboutdotme&logoColor=white)](http://seiki.fun/) 
 [![](https://img.shields.io/badge/-BiliBili-ff69b4?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/421909600)
 [![](https://img.shields.io/badge/-TencentQQ-0252D9?style=flat-square&logo=tencentqq&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=HRnGdIGt8Zj0Y1uJVUNBa4-PaCdb9jBu)
 [![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/xiao-zheng233)
